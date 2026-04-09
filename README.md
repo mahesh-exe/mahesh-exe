@@ -6,11 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=initializing+mahesh.exe...;loading+modules...;[+%E2%9C%93+]+systems+online;MCA+%40+PSG+College+of+Technology;full+stack+developer+%2F+system+thinker;building+with+intent+%2F+not+with+noise" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahesh-exe&label=profile+views&color=00ff9c&style=flat" />
-  <img src="https://img.shields.io/badge/status-building-0d0d0d?style=flat&logoColor=00ff9c&labelColor=0d0d0d&color=00ff9c" />
-  <img src="https://img.shields.io/badge/open%20to-internships-0d0d0d?style=flat&logoColor=00ff9c&labelColor=0d0d0d&color=00ff9c" />
-</p>
+
 
 ---
 
