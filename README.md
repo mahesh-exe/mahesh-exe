@@ -24,26 +24,6 @@ building clean + aesthetic projects
 focusing on consistency over hype
 
 
----
-
-### 🛠️ tools i use
-
-
-languages: C / Python / Java
-tools: Git / GitHub / VS Code
-approach: structured + minimal
-
-
----
-
-### 🧩 projects
-
-- ⚡ personal portfolio (clean + intentional)  
-- 🧠 structured builds with aesthetic focus  
-- 🔮 experimental ideas with purpose  
-
----
-
 ### 📊 github activity
 
 <p align="center">
